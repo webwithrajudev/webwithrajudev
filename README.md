@@ -59,15 +59,6 @@ A few demo sites I've built — static, fast, mobile-first and SEO-ready:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webwithrajudev&show_icons=true&hide_border=true&theme=tokyonight" alt="webwithraju's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webwithrajudev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
-</p>
-
----
-
 ### 📫 Let's work together
 
 > Got a project in mind, or one that needs rescuing? Send me a few lines about what you're building. I'll come back with **honest feedback and a clear quote. No sales pitch.**
