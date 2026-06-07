@@ -6,6 +6,7 @@
   <a href="https://webwithrajudev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-webwithraju-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/webwithraju/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/webwithraju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/919023300981"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:webwithraju.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -17,9 +18,8 @@ For the last **3+ years** I've helped founders, agencies, and small teams ship w
 
 Most projects reach me one of two ways — a founder with an idea and a Figma file, or a team with an inherited codebase they're afraid to touch. My job is the same in both cases: turn it into something your users enjoy and your next developer can actually maintain.
 
-- 🎨 **Frontend** — React.js, Vue.js, Tailwind CSS
-- 🧩 **Full-stack** — Next.js, Nuxt.js, Node.js, APIs
-- ⚙️ **Backend** — Node.js, NestJS, REST APIs
+- 🎨 **Frontend** — React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS
+- ⚙️ **Backend** — Node.js, NestJS, REST APIs, PostgreSQL, MongoDB
 - ⚡ **Performance & SEO** — fast on a cheap phone, ranking for the right keywords
 - 🖼️ **Figma → code** — responsive, pixel-close websites
 - 🐛 **Rescue work** — bug fixing, debugging & cleaning up inherited codebases
@@ -49,12 +49,13 @@ Most projects reach me one of two ways — a founder with an idea and a Figma fi
 
 A few demo sites I've built — static, fast, mobile-first and SEO-ready:
 
-| Project | What it is | Code |
-|---------|-----------|------|
-| 🍬 **Ambe Namkeen** | Sweets & namkeen shop site with online ordering | [Repo](https://github.com/webwithrajudev/Ambe-Namkeen) |
-| 🏋️ **IRONPULSE** | Gym & fitness club site with class schedule + memberships | [Repo](https://github.com/webwithrajudev/IRONPULSE-GYM) |
-| 🏡 **Skyline Realty** | Real-estate agency site with filterable listings | [Repo](https://github.com/webwithrajudev/real-estate) |
-| 🌐 **Portfolio** | My personal site, built with React + Vite | [Live](https://webwithrajudev.netlify.app/) |
+| Project | What it is | Live | Code |
+|---------|-----------|------|------|
+| 🍬 **Ambe Namkeen** | Sweets & namkeen shop site with online ordering | [Live](https://ambe-namkeen.netlify.app/) | [Repo](https://github.com/webwithrajudev/Ambe-Namkeen) |
+| 🏋️ **IRONPULSE** | Gym & fitness club site with class schedule + memberships | [Live](https://ironpulsegymm.netlify.app/) | [Repo](https://github.com/webwithrajudev/IRONPULSE-GYM) |
+| 🏥 **Aarogya Clinic** | Multispeciality clinic & diagnostics site with appointment booking | [Live](https://aarogyaclinic.netlify.app/) | [Repo](https://github.com/webwithrajudev/aarogya-clinic) |
+| 🏡 **Skyline Realty** | Real-estate agency site with filterable listings | [Live](https://skyline-realty.netlify.app/) | [Repo](https://github.com/webwithrajudev/real-estate) |
+| 🌐 **Portfolio** | My personal site, built with React + Vite | [Live](https://webwithrajudev.netlify.app/) | [Repo](https://github.com/webwithrajudev/webwithrajusite) |
 
 ---
 
@@ -73,5 +74,6 @@ A few demo sites I've built — static, fast, mobile-first and SEO-ready:
 
 - 🌐 Portfolio — [webwithrajudev.netlify.app](https://webwithrajudev.netlify.app/)
 - 📧 Email — [webwithraju.dev@gmail.com](mailto:webwithraju.dev@gmail.com)
+- 💬 WhatsApp — [+91 90233 00981](https://wa.me/919023300981)
 - 💼 LinkedIn — [in/webwithraju](https://www.linkedin.com/in/webwithraju/)
 - 📸 Instagram — [@webwithraju](https://www.instagram.com/webwithraju/)
